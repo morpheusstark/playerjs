@@ -18,7 +18,7 @@ function App() {
         * these are 4 videos in series test folder we have to test it with media player
         */
 
-        src= "http://157.245.88.202/stream/player"
+        src= "https://mega.playflix.services/stream/player"
         title={"F9"}
         subTitle={"The Fast Saga"}
         titleMedia={"F9"}
